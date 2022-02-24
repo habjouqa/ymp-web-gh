@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/medical-portal-theme/static/css/main.073c9b0a.css",
-    "main.js": "/medical-portal-theme/static/js/main.c775086b.js",
+    "main.js": "/medical-portal-theme/static/js/main.d0cee65a.js",
     "static/js/787.40850c55.chunk.js": "/medical-portal-theme/static/js/787.40850c55.chunk.js",
     "static/media/logo.svg": "/medical-portal-theme/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/medical-portal-theme/index.html",
     "main.073c9b0a.css.map": "/medical-portal-theme/static/css/main.073c9b0a.css.map",
-    "main.c775086b.js.map": "/medical-portal-theme/static/js/main.c775086b.js.map",
+    "main.d0cee65a.js.map": "/medical-portal-theme/static/js/main.d0cee65a.js.map",
     "787.40850c55.chunk.js.map": "/medical-portal-theme/static/js/787.40850c55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c775086b.js"
+    "static/js/main.d0cee65a.js"
   ]
 }
