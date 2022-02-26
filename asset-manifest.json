@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/medical-portal-theme/static/css/main.669e70cb.chunk.css",
+<<<<<<< HEAD
     "main.js": "/medical-portal-theme/static/js/main.cf449f02.chunk.js",
     "main.js.map": "/medical-portal-theme/static/js/main.cf449f02.chunk.js.map",
+=======
+    "main.js": "/medical-portal-theme/static/js/main.0ebabd3e.chunk.js",
+    "main.js.map": "/medical-portal-theme/static/js/main.0ebabd3e.chunk.js.map",
+>>>>>>> a7bfd11a2ee1fdcae0d1ed92268a4a5b88b464b1
     "runtime~main.js": "/medical-portal-theme/static/js/runtime~main.2cb44092.js",
     "runtime~main.js.map": "/medical-portal-theme/static/js/runtime~main.2cb44092.js.map",
     "static/css/2.bd4a83ea.chunk.css": "/medical-portal-theme/static/css/2.bd4a83ea.chunk.css",
     "static/js/2.09937e15.chunk.js": "/medical-portal-theme/static/js/2.09937e15.chunk.js",
     "static/js/2.09937e15.chunk.js.map": "/medical-portal-theme/static/js/2.09937e15.chunk.js.map",
     "index.html": "/medical-portal-theme/index.html",
+<<<<<<< HEAD
     "precache-manifest.31c5f840964ca522b3a477a8224612f9.js": "/medical-portal-theme/precache-manifest.31c5f840964ca522b3a477a8224612f9.js",
+=======
+    "precache-manifest.cffb99fae9a5da901e93840b86a7a375.js": "/medical-portal-theme/precache-manifest.cffb99fae9a5da901e93840b86a7a375.js",
+>>>>>>> a7bfd11a2ee1fdcae0d1ed92268a4a5b88b464b1
     "service-worker.js": "/medical-portal-theme/service-worker.js",
     "static/css/2.bd4a83ea.chunk.css.map": "/medical-portal-theme/static/css/2.bd4a83ea.chunk.css.map",
     "static/css/main.669e70cb.chunk.css.map": "/medical-portal-theme/static/css/main.669e70cb.chunk.css.map",

@@ -14,7 +14,11 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
+<<<<<<< HEAD
   "/medical-portal-theme/precache-manifest.31c5f840964ca522b3a477a8224612f9.js"
+=======
+  "/medical-portal-theme/precache-manifest.cffb99fae9a5da901e93840b86a7a375.js"
+>>>>>>> a7bfd11a2ee1fdcae0d1ed92268a4a5b88b464b1
 );
 
 self.addEventListener('message', (event) => {
