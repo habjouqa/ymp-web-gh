@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ymp-web-gh/static/css/main.c552aa56.css",
-    "main.js": "/ymp-web-gh/static/js/main.addfa5ce.js",
+    "main.js": "/ymp-web-gh/static/js/main.8b412707.js",
     "static/js/552.6d88e93e.chunk.js": "/ymp-web-gh/static/js/552.6d88e93e.chunk.js",
     "static/css/44.75e33093.chunk.css": "/ymp-web-gh/static/css/44.75e33093.chunk.css",
     "static/js/44.afe4c013.chunk.js": "/ymp-web-gh/static/js/44.afe4c013.chunk.js",
@@ -158,7 +158,7 @@
     "static/media/getFetch.cjs": "/ymp-web-gh/static/media/getFetch.c780682470504fffbd04.cjs",
     "static/media/tick-icon.svg": "/ymp-web-gh/static/media/tick-icon.6da4654e663ce98a74f6.svg",
     "main.c552aa56.css.map": "/ymp-web-gh/static/css/main.c552aa56.css.map",
-    "main.addfa5ce.js.map": "/ymp-web-gh/static/js/main.addfa5ce.js.map",
+    "main.8b412707.js.map": "/ymp-web-gh/static/js/main.8b412707.js.map",
     "552.6d88e93e.chunk.js.map": "/ymp-web-gh/static/js/552.6d88e93e.chunk.js.map",
     "44.75e33093.chunk.css.map": "/ymp-web-gh/static/css/44.75e33093.chunk.css.map",
     "44.afe4c013.chunk.js.map": "/ymp-web-gh/static/js/44.afe4c013.chunk.js.map",
@@ -213,6 +213,6 @@
   },
   "entrypoints": [
     "static/css/main.c552aa56.css",
-    "static/js/main.addfa5ce.js"
+    "static/js/main.8b412707.js"
   ]
 }
