@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkymp_react=self.webpackChunkymp_react||[]).push([[150],{7150:function(e,t,s){s.r(t);s(2791);var n=s(6491),r=s(184);t.default=function(){return(0,r.jsx)(n.Qv,{code:500,message:"Oops! Something went wrong",description:"We could not process the request, please try again later"})}}}]);
+//# sourceMappingURL=150.1e067762.chunk.js.map
